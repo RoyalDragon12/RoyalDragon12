@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoyalDragon12
 - 👀 I’m interested in games! Yes, from playing games to coding games, creating games ideas such as items, abilities, gameplays,... All about games.
-- 🌱 I’m currently learning ASP.NET and Kotlin.
+- 🌱 I’m currently learning .NET and Kotlin.
 - 📫 Contact me using my work e-mail: trangia0512@gmail.com
 
 <!---
